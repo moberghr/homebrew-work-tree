@@ -1,4 +1,4 @@
-class WorkTree < Formula
+class Work < Formula
   desc "Cross-platform Git worktree manager for multiple repositories"
   homepage "https://github.com/moberghr/cli-work-tree-manager"
   url "https://registry.npmjs.org/@moberg_hr/work-tree/-/work-tree-1.5.0.tgz"
