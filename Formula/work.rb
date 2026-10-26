@@ -3,8 +3,8 @@ class Work < Formula
   homepage "https://github.com/moberghr/cli-work-tree-manager"
   # Points at the published npm tarball. After `npm publish`, update both the
   # version in the URL and the sha256 (see packaging/homebrew/README.md).
-  url "https://registry.npmjs.org/@moberg_hr/work-tree/-/work-tree-2.4.0.tgz"
-  sha256 "1a76be508b27dce417b25dc80cfc42e64b94d23d9ff44325a678c60f5f85e891"
+  url "https://registry.npmjs.org/@moberg_hr/work-tree/-/work-tree-2.4.1.tgz"
+  sha256 "830bfcc48638a8eaeeb673643b82ce1c50489cc562f696e767583417497009d1"
   license "MIT"
 
   depends_on "node"
