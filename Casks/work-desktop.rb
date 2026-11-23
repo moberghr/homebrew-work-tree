@@ -1,8 +1,8 @@
 cask "work-desktop" do
   # The release workflow (release.yml, the desktop job on macOS) fills in the
   # version and sha256 and pushes this file to the tap as Casks/work-desktop.rb.
-  version "2.20.0"
-  sha256 "a42c848da0bdc67fa682ed9177ea96990199c486493538b4c6d37a3e9b7e9ca0"
+  version "2.20.1"
+  sha256 "d75a0060925fa1525a97f044fd1d7fdf3d9ce5aae9ce12f781a21c2c04ede624"
 
   url "https://github.com/moberghr/cli-work-tree-manager/releases/download/v#{version}/WorkDesktop-osx-Portable.zip"
   name "work"
